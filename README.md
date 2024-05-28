@@ -33,7 +33,7 @@ Or run on your machine:
 
 clone project
 ```
-git clone https://github.com/kajal7392/ToDo-List-app
+git clone https://github.com/kajal7392/ToDo-List-App
 ```
 go to projet
 ```
